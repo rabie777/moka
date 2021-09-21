@@ -1,0 +1,270 @@
+/*template styles   */
+
+.اسم-الدرس{
+	font-size:24px;
+	color:#0163b5;
+	font-family:"Times New Roman";
+	text-align:center;
+	font-weight:bold;
+	direction:rtl;
+	padding-bottom:25px;
+	background:url(../images/templates/Temp-General/under-tittle.png) bottom center no-repeat !important;
+}
+
+.عنوان-فرعي1{
+	font-size:18px;
+	color:#243c85;
+	font-family:"Times New Roman";
+	text-align:right;
+	font-weight:bold;
+	direction:rtl;
+	padding-left:15px;	/*padding-bottom:5px;*/
+	padding-bottom: 12px;
+	background:url(../images/templates/Temp-General/sub-tittle.png) bottom left no-repeat !important;
+}
+.عنوان-فرعي2{
+	font-size:18px;
+	color:#000000;
+	font-family:"Times New Roman";
+	text-align:right;
+	font-weight:bold;
+	direction:rtl;
+}
+.ايات{
+	font-size:16px;
+	color:#105505;
+	text-align:justify;
+}
+.الغريب{
+	font-size:16px;
+	color:#0214ff;
+	font-family:"Times New Roman";
+	text-align:justify;
+	font-weight:bold;
+}
+.الحديث{
+	font-size:16px;
+	color:#18549a;
+	font-family:"Times New Roman";
+	text-align:justify;
+	font-weight:bold;
+}
+.الاعلام{
+	font-size:16px;
+	color:#105505;
+	font-family:"Times New Roman";
+	text-align:justify;
+	font-weight:bold;
+}
+.المصطلحات{
+	font-size:16px;
+	color:#561098;
+	font-family:"Times New Roman";
+	text-align:justify;
+	font-weight:bold;
+}
+.عناصر{
+	color:#222d87;
+	text-align:right;
+	font-weight:bold;
+	direction:rtl;
+	
+}
+p .عناصر{
+	font-family:"Cairo";
+	color:#222d87;
+	text-align:right;
+	font-weight:bold;
+	direction:rtl;
+	padding-bottom: 15px;
+	padding-left: 15px;
+	text-decoration: none;
+	background:url(../images/templates/Temp-General/sub-tittle.png) bottom left no-repeat !important;
+}
+.المتن{
+	font-size:16px;
+	color:#a01c1c;
+	font-family:"Times New Roman";
+	text-align:justify;
+	font-weight:bold;
+}
+.فقرة-خط{
+	background:url(../images/templates/Temp-General/line.png) bottom center no-repeat !important;
+	font-size:16px;
+	color:#000000;
+	font-family:"Times New Roman";
+	text-align:justify;
+	padding-bottom:30px;
+}
+.فقرة{
+	font-size:16px;
+	color:#000000;
+	font-family:"Cairo";
+	text-align:justify;
+}
+.فقرة-بمسافة{
+	color:#000000;
+	font-family:"bahij";
+	text-align: justify;
+}
+
+.عنوان-نشاط{
+	font-size:18px;
+	color:#000000;
+	font-family:"Times New Roman";
+	text-align:right;
+	font-weight:bold;
+	direction:rtl;
+}
+.مربع-بوربوينت{
+	font-size:16px;
+	color:#000000;
+	font-family:"Times New Roman";
+	text-align:justify;
+	border:thick #000 solid;
+}
+.مربع-فيديو{
+	font-size:16px;
+	color:#000000;
+	font-family:"Times New Roman";
+	text-align:justify;
+	border:thick #000 solid;
+}
+.فقرة a[href^="#"]{
+	background:url(../images/templates/Temp-General/button.png) center bottom repeat-x !important;
+	text-decoration:none;
+	color:#44281b;
+	padding-right:3px;
+	padding-left:3px;
+	font-weight:bold;
+}
+.فقرة-بمسافة a{
+	background:url(../images/templates/Temp-General/button.png) center bottom repeat-x !important;
+	text-decoration:none;
+	color:#44281b;
+	padding-right:3px;
+	padding-left:3px;
+	font-weight:bold;
+}
+.مربع-بوربوينت{
+	font-size:16px;
+	color:#000000;
+	font-family:"Times New Roman";
+	text-align:justify;
+	border:thick #000 solid;
+}
+.مربع-فيديو{
+	font-size:16px;
+	color:#000000;
+	font-family:"Times New Roman";
+	text-align:justify;
+	border:thick #000 solid;
+}
+.فقرة a[href^="#"]{
+	background:url(../images/templates/Temp-General/button.png) center bottom repeat-x !important;
+	text-decoration:none;
+	color:#44281b;
+	padding-right:3px;
+	padding-left:3px;
+	font-weight:bold;
+}
+.فقرة-بمسافة a{
+	background:url(../images/templates/Temp-General/button.png) center bottom repeat-x !important;
+	text-decoration:none;
+	color:#44281b;
+	padding-right:3px;
+	padding-left:3px;
+	font-weight:bold;
+}
+.مربع-نشاط{
+	font-size:16px;
+	color:#000000;
+	font-family:"Times New Roman";
+	text-align:justify;
+	padding-top: 10px;
+	width:592px;
+	margin-right: 35px;
+	background:url(../images/templates/Temp-General/q1.jpg) top center no-repeat !important;
+}
+.qborder{
+	font-size:16px;
+	color:#000000;
+	font-family:"Times New Roman";
+	text-align:justify;
+	padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+	background:url(../images/templates/Temp-General/q3.jpg) bottom center no-repeat !important;
+}
+.readmore{
+	font-size:15px;
+	text-align:left;
+	background: url("../images/templates/Temp-General/button.png") repeat-x scroll center bottom transparent !important;
+    color: #44281B;
+    font-weight: bold;
+    text-decoration: none;
+	margin-right:auto;
+}
+.عنوان-نشاط{
+	font-size:18px;
+	color:#4f2819;
+	font-family:"Times New Roman";
+	text-align:right;
+	font-weight:bold;
+	direction:rtl;
+	padding-right: 45px;
+}
+.مربع-بوربوينت{
+	font-size:16px;
+	color:#000000;
+	font-family:"Times New Roman";
+	text-align:justify;
+	height:48px;
+	padding-right: 50px;
+	line-height:48px;
+	background:url(../images/templates/Temp-General/p1.jpg) bottom center no-repeat !important;
+}
+.مربع-بوربوينت a{
+	background:url(../images/templates/Temp-General/button.png) center bottom repeat-x !important;
+	text-decoration:none;
+	color:#44281b;
+	padding-right:3px;
+	padding-left:3px;
+	font-weight:bold;
+	margin-right: 35px;
+}
+.مربع-فيديو{
+	font-size:16px;
+	color:#000000;
+	font-family:"Times New Roman";
+	text-align:justify;
+	border:thick #000 solid;
+}
+.فقرة a[href^="#"]{
+	background:url(../images/templates/Temp-General/button.png) center bottom repeat-x !important;
+	text-decoration:none;
+	color:#44281b;
+	padding-right:3px;
+	padding-left:3px;
+	font-weight:bold;
+}
+.فقرة-بمسافة a{
+	background:url(../images/templates/Temp-General/button.png) center bottom repeat-x !important;
+	text-decoration:none;
+	color:#44281b;
+	padding-right:3px;
+	padding-left:3px;
+	font-weight:bold;
+}
+.Header_Box{
+	background:url(./images/hb_bg_right.png) center right no-repeat,url(./images/hb_bg_left.png) center left no-repeat, url(./images/hb_bg.png) center center repeat-x  ;
+	min-width: 345px;
+	max-width: 50%;
+	width:fit-content;
+	height: 65px;
+	margin: auto;
+    padding-top: 16px;
+    text-align: center;
+	padding-left: 35px;
+	padding-right: 35px;
+}

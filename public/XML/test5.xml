@@ -1,0 +1,2881 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+                <wbody>
+                    <wp wrsidR="006421C0" wrsidRPr="008073FF" wrsidRDefault="00420ED6" wrsidP="00570E36">
+                        <wpPr>
+                            <wbidi wval="0" />
+                            <wind wfirstLine="284" />
+                            <wjc wval="center" />
+                            <wrPr>
+                                <wrFonts wascii="Amiri" whAnsi="Amiri" wcs="PT Bold Heading" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wr>
+                            <wrPr>
+                                <wrFonts wascii="Simplified Arabic" whAnsi="Simplified Arabic" wcs="Simplified Arabic" />
+                                <wnoProof />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wlang wbidi="ar-EG" />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                        <wr wrsidR="00355D2F" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Simplified Arabic" whAnsi="Simplified Arabic" wcs="Simplified Arabic" />
+                                <wnoProof />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wlang wbidi="ar-EG" />
+                            </wrPr>
+                            <wt>HB</wt>
+                        </wr>
+                        <wr wrsidR="006421C0" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Amiri" whAnsi="Amiri" wcs="PT Bold Heading" />
+                                <wcolor wval="00B050" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>الأسماء</wt>
+                        </wr>
+                        <wr wrsidR="00231911">
+                            <wrPr>
+                                <wrFonts wascii="Amiri" whAnsi="Amiri" wcs="PT Bold Heading" whint="cs" />
+                                <wcolor wval="00B050" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                        <wr wrsidR="006421C0" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Amiri" whAnsi="Amiri" wcs="PT Bold Heading" />
+                                <wcolor wval="00B050" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>الخمسة</wt>
+                        </wr>
+                        <wr wrsidR="00570E36">
+                            <wrPr>
+                                <wrFonts wascii="Amiri" whAnsi="Amiri" wcs="PT Bold Heading" whint="cs" />
+                                <wcolor wval="00B050" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                                <wlang wbidi="ar-EG" />
+                            </wrPr>
+                            <wt>والمثني</wt>
+                        </wr>
+                        <wr wrsidR="00355D2F" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Simplified Arabic" whAnsi="Simplified Arabic" wcs="Simplified Arabic" />
+                                <wnoProof />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wlang wbidi="ar-EG" />
+                            </wrPr>
+                            <wt>EH</wt>
+                        </wr>
+                        <wr>
+                            <wrPr>
+                                <wrFonts wascii="Simplified Arabic" whAnsi="Simplified Arabic" wcs="Simplified Arabic" />
+                                <wnoProof />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wlang wbidi="ar-EG" />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00B86A60" wrsidRDefault="00B86A60" wrsidP="00B86A60">
+                        <wpPr>
+                            <wind wfirstLine="284" />
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="30" />
+                                <wszCs wval="30" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="003F3EB9">
+                            <wrPr>
+                                <wrFonts wascii="Simplified Arabic" whAnsi="Simplified Arabic" wcs="Simplified Arabic" />
+                                <wnoProof />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wlang wbidi="ar-EG" />
+                            </wrPr>
+                            <wt>G-A</wt>
+                        </wr>
+                        <wr wrsidRPr="00306DE1">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="30" />
+                                <wszCs wval="30" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00B86A60" wrsidRPr="00231911" wrsidRDefault="00231911" wrsidP="00B86A60">
+                        <wpPr>
+                            <wind wfirstLine="567" />
+                            <wrPr>
+                                <wrFonts wascii="Almarai" whAnsi="Almarai" wcs="Almarai" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wr>
+                            <wrPr>
+                                <wrFonts wascii="Almarai" whAnsi="Almarai" wcs="Almarai" />
+                                <wsz wval="30" />
+                                <wszCs wval="30" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>بسم ال</wt>
+                        </wr>
+                        <wr>
+                            <wrPr>
+                                <wrFonts wascii="Almarai" whAnsi="Almarai" wcs="Almarai" whint="cs" />
+                                <wsz wval="30" />
+                                <wszCs wval="30" />
+                                <wrtl />
+                                <wlang wbidi="ar-EG" />
+                            </wrPr>
+                            <wt>ل</wt>
+                        </wr>
+                        <wr wrsidR="00B86A60" wrsidRPr="00231911">
+                            <wrPr>
+                                <wrFonts wascii="Almarai" whAnsi="Almarai" wcs="Almarai" />
+                                <wsz wval="30" />
+                                <wszCs wval="30" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>ه الرحمن الرحيم</wt>
+                        </wr>
+                        <wr wrsidR="00B86A60" wrsidRPr="00231911">
+                            <wrPr>
+                                <wrFonts wascii="Almarai" whAnsi="Almarai" wcs="Almarai" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>،</wt>
+                        </wr>
+                        <wr wrsidR="00B86A60" wrsidRPr="00231911">
+                            <wrPr>
+                                <wrFonts wascii="Almarai" whAnsi="Almarai" wcs="Almarai" />
+                                <wsz wval="30" />
+                                <wszCs wval="30" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> والصلاة والسلام على أشرف المرسلين، سيدنا محمد النبي الأمي الكريم، صلى الله عليه وعلى آلة وصحبه أجمعين، ثم أما بعد</wt>
+                        </wr>
+                        <wr wrsidR="00531BAC">
+                            <wrPr>
+                                <wrFonts wascii="Almarai" whAnsi="Almarai" wcs="Almarai" />
+                                <wsz wval="30" />
+                                <wszCs wval="30" />
+                                <wrtl />
+                                <wlang wbidi="ar-EG" />
+                            </wrPr>
+                            <wt xmlspace="preserve"> </wt>
+                        </wr>
+                        <wr wrsidR="00AD1789">
+                            <wrPr>
+                                <wrFonts wascii="Almarai" whAnsi="Almarai" wcs="Almarai" />
+                                <wsz wval="30" />
+                                <wszCs wval="30" />
+                                <wlang wbidi="ar-EG" />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                        <wr wrsidR="006E6D23">
+                            <wrPr>
+                                <wrFonts wascii="Almarai" whAnsi="Almarai" wcs="Almarai" />
+                                <wsz wval="30" />
+                                <wszCs wval="30" />
+                                <wlang wbidi="ar-EG" />
+                            </wrPr>
+                            <wt>.</wt>
+                        </wr>
+                        <wr wrsidR="00AD1789">
+                            <wrPr>
+                                <wrFonts wascii="Almarai" whAnsi="Almarai" wcs="Almarai" />
+                                <wsz wval="30" />
+                                <wszCs wval="30" />
+                                <wlang wbidi="ar-EG" />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00B86A60" wrsidRPr="00231911" wrsidRDefault="00B86A60" wrsidP="00B86A60">
+                        <wpPr>
+                            <wpStyle wval="NormalWeb" />
+                            <wwidowControl wval="0" />
+                            <wbidi />
+                            <wspacing wbefore="0" wbeforeAutospacing="0" wafter="80" wafterAutospacing="0" wline="520" wlineRule="exact" />
+                            <wind wfirstLine="567" />
+                            <wjc wval="lowKashida" />
+                            <wrPr>
+                                <wrFonts wascii="Almarai" whAnsi="Almarai" wcs="Almarai" />
+                                <wrtl />
+                                <wlang wbidi="ar-EG" />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="00231911">
+                            <wrPr>
+                                <wrFonts wascii="Almarai" whAnsi="Almarai" wcs="Almarai" />
+                                <wrtl />
+                                <wlang wbidi="ar-EG" />
+                            </wrPr>
+                            <wt>فقد درست عزيزي الطالب في السابق</wt>
+                        </wr>
+                        <wr wrsidR="00531BAC">
+                            <wrPr>
+                                <wrFonts wascii="Almarai" whAnsi="Almarai" wcs="Almarai" />
+                                <wrtl />
+                                <wlang wbidi="ar-EG" />
+                            </wrPr>
+                            <wt xmlspace="preserve"> </wt>
+                        </wr>
+                        <wr wrsidRPr="00231911">
+                            <wrPr>
+                                <wrFonts wascii="Almarai" whAnsi="Almarai" wcs="Almarai" />
+                                <wrtl />
+                                <wlang wbidi="ar-EG" />
+                            </wrPr>
+                            <wt xmlspace="preserve"> درس علامات الإعراب الأصلية، وعرفت أن علامة الرفع الأصلية هي الضمة، وعلامة النصب الأصلية هي الفتحة وعلامة الخفض الأصلية هي الكسرة، وعلامة الجزم الأصلية هي السكون</wt>
+                        </wr>
+                        <wr wrsidR="00AD1789">
+                            <wrPr>
+                                <wrFonts wascii="Almarai" whAnsi="Almarai" wcs="Almarai" />
+                                <wlang wbidi="ar-EG" />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                        <wr wrsidR="006E6D23">
+                            <wrPr>
+                                <wrFonts wascii="Almarai" whAnsi="Almarai" wcs="Almarai" />
+                                <wsz wval="30" />
+                                <wszCs wval="30" />
+                                <wlang wbidi="ar-EG" />
+                            </wrPr>
+                            <wt>.</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="008073FF" wrsidRDefault="00B86A60" wrsidP="00B86A60">
+                        <wpPr>
+                            <wpStyle wval="NormalWeb" />
+                            <wwidowControl wval="0" />
+                            <wbidi />
+                            <wspacing wbefore="0" wbeforeAutospacing="0" wafter="80" wafterAutospacing="0" wline="520" wlineRule="exact" />
+                            <wind wfirstLine="567" />
+                            <wjc wval="lowKashida" />
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wrtl />
+                                <wlang wbidi="ar-EG" />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="00231911">
+                            <wrPr>
+                                <wrFonts wascii="Almarai" whAnsi="Almarai" wcs="Almarai" />
+                                <wrtl />
+                                <wlang wbidi="ar-EG" />
+                            </wrPr>
+                            <wt>وستدرس في هذا الدرس إن شاء الله</wt>
+                        </wr>
+                        <wr wrsidR="00531BAC">
+                            <wrPr>
+                                <wrFonts wascii="Almarai" whAnsi="Almarai" wcs="Almarai" />
+                                <wrtl />
+                                <wlang wbidi="ar-EG" />
+                            </wrPr>
+                            <wt xmlspace="preserve"> </wt>
+                        </wr>
+                        <wr wrsidRPr="00231911">
+                            <wrPr>
+                                <wrFonts wascii="Almarai" whAnsi="Almarai" wcs="Almarai" />
+                                <wrtl />
+                                <wlang wbidi="ar-EG" />
+                            </wrPr>
+                            <wt xmlspace="preserve"> الأسماء الخمسة – والمثنى</wt>
+                        </wr>
+                        <wbookmarkStart wid="0" wname="_GoBack" />
+                        <wbookmarkEnd wid="0" />
+                        <wr wrsidR="006E6D23">
+                            <wrPr>
+                                <wrFonts wascii="Almarai" whAnsi="Almarai" wcs="Almarai" />
+                                <wcolor wval="00B050" />
+                                <wrtl />
+                                <wlang wbidi="ar-EG" />
+                            </wrPr>
+                            <wt xmlspace="preserve">  .</wt>
+                        </wr>
+                        <wr wrsidRPr="00F74AB8">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" whint="cs" />
+                                <wcolor wval="00B050" />
+                                <wrtl />
+                                <wlang wbidi="ar-EG" />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00B86A60" wrsidRPr="00B86A60" wrsidRDefault="00B86A60" wrsidP="00B86A60">
+                        <wpPr>
+                            <wpStyle wval="NormalWeb" />
+                            <wwidowControl wval="0" />
+                            <wbidi />
+                            <wspacing wbefore="0" wbeforeAutospacing="0" wafter="80" wafterAutospacing="0" wline="520" wlineRule="exact" />
+                            <wind wfirstLine="567" />
+                            <wjc wval="lowKashida" />
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wrtl />
+                                <wlang wbidi="ar-EG" />
+                            </wrPr>
+                        </wpPr>
+                    </wp>
+                    <wp wrsidR="0024468F" wrsidRPr="008073FF" wrsidRDefault="00B04745" wrsidP="0024468F">
+                        <wpPr>
+                            <wind wfirstLine="284" />
+                            <wjc wval="lowKashida" />
+                            <wrPr>
+                                <wrFonts wascii="Amiri" whAnsi="Amiri" wcs="PT Bold Heading" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt>G-G</wt>
+                        </wr>
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" weastAsia="Calibri" whAnsi="Lotus Linotype" wcs="Lotus Linotype" whint="cs" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                        <wr wrsidR="0024468F" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" weastAsia="Calibri" whAnsi="Lotus Linotype" wcs="Lotus Linotype" whint="cs" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve">يرجى لك عزيزي الطالب بعد دراستك لهذا الدرس أن تتعرف على الأمور </wt>
+                        </wr>
+                        <wproofErr wtype="gramStart" />
+                        <wr wrsidR="0024468F" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" weastAsia="Calibri" whAnsi="Lotus Linotype" wcs="Lotus Linotype" whint="cs" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>الآتية</wt>
+                        </wr>
+                        <wr wrsidR="00531BAC">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" weastAsia="Calibri" whAnsi="Lotus Linotype" wcs="Lotus Linotype" whint="cs" />
+                                <wb />
+                                <wbCs />
+                                <wcolor wval="FF0000" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> </wt>
+                        </wr>
+                        <wproofErr wtype="gramEnd" />
+                    </wp>
+                    <wp wrsidR="0024468F" wrsidRPr="00420ED6" wrsidRDefault="00420ED6" wrsidP="00420ED6">
+                        <wpPr>
+                            <wind wleft="283" />
+                            <wjc wval="lowKashida" />
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wr>
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt xmlspace="preserve"> (1)</wt>
+                        </wr>
+                        <wr wrsidRPr="00420ED6">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" whint="cs" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> معرف</wt>
+                        </wr>
+                        <wr wrsidRPr="00420ED6">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" whint="eastAsia" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>ة</wt>
+                        </wr>
+                        <wr wrsidR="00FD6836" wrsidRPr="00420ED6">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> الأسماء الخمسة وحفظها</wt>
+                        </wr>
+                        <wr wrsidR="00F74AB8">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                        <wr wrsidR="006E6D23">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve">  .</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00FD6836" wrsidRPr="00420ED6" wrsidRDefault="00420ED6" wrsidP="00420ED6">
+                        <wpPr>
+                            <wind wleft="283" />
+                            <wjc wval="lowKashida" />
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                        </wpPr>
+                        <wr>
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt>(2)</wt>
+                        </wr>
+                        <wr wrsidRPr="00420ED6">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" whint="cs" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> معرف</wt>
+                        </wr>
+                        <wr wrsidRPr="00420ED6">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" whint="eastAsia" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>ة</wt>
+                        </wr>
+                        <wr wrsidR="00FD6836" wrsidRPr="00420ED6">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> إعراب الأسماء الخمسة</wt>
+                        </wr>
+                        <wr wrsidR="00F74AB8">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                        <wr wrsidR="006E6D23">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve">  .</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00FD6836" wrsidRPr="00420ED6" wrsidRDefault="00420ED6" wrsidP="00420ED6">
+                        <wpPr>
+                            <wind wleft="283" />
+                            <wjc wval="lowKashida" />
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                        </wpPr>
+                        <wr>
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt>(3)</wt>
+                        </wr>
+                        <wr wrsidRPr="00420ED6">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" whint="cs" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> معرف</wt>
+                        </wr>
+                        <wr wrsidRPr="00420ED6">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" whint="eastAsia" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>ة</wt>
+                        </wr>
+                        <wr wrsidR="00FD6836" wrsidRPr="00420ED6">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> شروط إعراب الأسماء </wt>
+                        </wr>
+                        <wproofErr wtype="gramStart" />
+                        <wr wrsidR="00F74AB8" wrsidRPr="00420ED6">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" whint="cs" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>الخمسة</wt>
+                        </wr>
+                        <wr wrsidR="006E6D23">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve">  .</wt>
+                        </wr>
+                        <wproofErr wtype="gramEnd" />
+                        <wr wrsidR="00F74AB8">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00FD6836" wrsidRPr="00420ED6" wrsidRDefault="00420ED6" wrsidP="00420ED6">
+                        <wpPr>
+                            <wind wleft="283" />
+                            <wjc wval="lowKashida" />
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                        </wpPr>
+                        <wr>
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt>(4)</wt>
+                        </wr>
+                        <wr wrsidRPr="00420ED6">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" whint="cs" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> تعري</wt>
+                        </wr>
+                        <wr wrsidRPr="00420ED6">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" whint="eastAsia" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>ف</wt>
+                        </wr>
+                        <wr wrsidR="00FD6836" wrsidRPr="00420ED6">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> المثنى</wt>
+                        </wr>
+                        <wr wrsidR="00F74AB8">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                        <wr wrsidR="006E6D23">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve">  .</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00FD6836" wrsidRPr="00420ED6" wrsidRDefault="00420ED6" wrsidP="00420ED6">
+                        <wpPr>
+                            <wind wleft="283" />
+                            <wjc wval="lowKashida" />
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                        </wpPr>
+                        <wr>
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt>(5)</wt>
+                        </wr>
+                        <wr wrsidRPr="00420ED6">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" whint="cs" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> إعرا</wt>
+                        </wr>
+                        <wr wrsidRPr="00420ED6">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" whint="eastAsia" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>ب</wt>
+                        </wr>
+                        <wr wrsidR="00FD6836" wrsidRPr="00420ED6">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> المثنى</wt>
+                        </wr>
+                        <wr wrsidR="00F74AB8">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                        <wr wrsidR="006E6D23">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve">  .</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00FD6836" wrsidRPr="00420ED6" wrsidRDefault="00420ED6" wrsidP="00420ED6">
+                        <wpPr>
+                            <wind wleft="283" />
+                            <wjc wval="lowKashida" />
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                        </wpPr>
+                        <wr>
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt>(6)</wt>
+                        </wr>
+                        <wr wrsidRPr="00420ED6">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" whint="cs" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> التدر</wt>
+                        </wr>
+                        <wr wrsidRPr="00420ED6">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" whint="eastAsia" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>ب</wt>
+                        </wr>
+                        <wr wrsidR="00FD6836" wrsidRPr="00420ED6">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> على ضرب الأمثلة للمثنى</wt>
+                        </wr>
+                        <wr wrsidR="00F74AB8" wrsidRPr="00F74AB8">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wcolor wval="FF0000" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                        <wr wrsidR="006E6D23">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wcolor wval="FF0000" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve">  .</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00FD6836" wrsidRPr="00420ED6" wrsidRDefault="00420ED6" wrsidP="00420ED6">
+                        <wpPr>
+                            <wind wleft="283" />
+                            <wjc wval="lowKashida" />
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                        </wpPr>
+                        <wr>
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt>(7)</wt>
+                        </wr>
+                        <wr wrsidRPr="00420ED6">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" whint="cs" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> معرف</wt>
+                        </wr>
+                        <wr wrsidRPr="00420ED6">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" whint="eastAsia" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>ة</wt>
+                        </wr>
+                        <wr wrsidR="00FD6836" wrsidRPr="00420ED6">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> الملحق بالمثنى </wt>
+                        </wr>
+                        <wr wrsidR="009A3AEA" wrsidRPr="00420ED6">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" whint="cs" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve">مع </wt>
+                        </wr>
+                        <wr wrsidR="00FD6836" wrsidRPr="00420ED6">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>التمثيل له</wt>
+                        </wr>
+                        <wr wrsidR="00F74AB8" wrsidRPr="00F74AB8">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wcolor wval="FF0000" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                        <wr wrsidR="006E6D23">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wcolor wval="FF0000" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve">  .</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00231911" wrsidRDefault="00231911" wrsidP="00231911">
+                        <wpPr>
+                            <wjc wval="lowKashida" />
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                    </wp>
+                    <wp wrsidR="00231911" wrsidRDefault="00231911" wrsidP="00231911">
+                        <wpPr>
+                            <wjc wval="lowKashida" />
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                    </wp>
+                    <wp wrsidR="00231911" wrsidRPr="00231911" wrsidRDefault="00231911" wrsidP="00231911">
+                        <wpPr>
+                            <wjc wval="lowKashida" />
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                    </wp>
+                    <wp wrsidR="006421C0" wrsidRPr="008073FF" wrsidRDefault="005C5DA1" wrsidP="00AD1789">
+                        <wpPr>
+                            <wjc wval="lowKashida" />
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Simplified Arabic" whAnsi="Simplified Arabic" wcs="Simplified Arabic" />
+                                <wcolor wval="404040" wthemeColor="text1" wthemeTint="BF" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt>TB</wt>
+                        </wr>
+                        <wr wrsidR="00FD6836" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve">الأسماء </wt>
+                        </wr>
+                        <wproofErr wtype="gramStart" />
+                        <wr wrsidR="00FD6836" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wb />
+                                <wbCs />
+                                <wcolor wval="4472C4" wthemeColor="accent5" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>الخمسة</wt>
+                        </wr>
+                        <wr wrsidR="00531BAC">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> </wt>
+                        </wr>
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Simplified Arabic" whAnsi="Simplified Arabic" wcs="Simplified Arabic" />
+                                <wcolor wval="404040" wthemeColor="text1" wthemeTint="BF" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt>ET</wt>
+                        </wr>
+                        <wr wrsidR="006421C0" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>هي</wt>
+                        </wr>
+                        <wproofErr wtype="gramEnd" />
+                        <wr wrsidR="00531BAC">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> </wt>
+                        </wr>
+                        <wr wrsidR="006421C0" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> أبُوكَ، وأخوكَ، وحَمُوكَ، وفُوكَ، وذو مَالٍ</wt>
+                        </wr>
+                        <wr wrsidR="006E6D23">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" whint="cs" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve">  .</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="002474D7" wrsidRPr="008073FF" wrsidRDefault="00631655" wrsidP="00B86A60">
+                        <wpPr>
+                            <wind wfirstLine="284" />
+                            <wjc wval="lowKashida" />
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                                <wlang wbidi="ar-EG" />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wnoProof />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wlastRenderedPageBreak />
+                            <wt>G-L</wt>
+                        </wr>
+                        <wr wrsidR="0016071A" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="PT Bold Heading" whint="cs" />
+                                <wb />
+                                <wbCs />
+                                <wcolor wval="FF0000" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                        <wr wrsidR="0016071A" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve">الأسماء </wt>
+                        </wr>
+                        <wproofErr wtype="gramStart" />
+                        <wr wrsidR="0016071A" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>الخمسة</wt>
+                        </wr>
+                        <wr wrsidR="00531BAC">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> </wt>
+                        </wr>
+                        <wproofErr wtype="gramEnd" />
+                        <wr wrsidR="006421C0" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> تُرْفَعُ بالواو نيابة عن الضمة، </wt>
+                        </wr>
+                        <wr wrsidR="00710B54" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" whint="cs" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>وتنصب بالألف نيابة عن الفت</wt>
+                        </wr>
+                        <wr wrsidR="00B86A60">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" whint="cs" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>حة، وتجر بالياء نيابة عن الكسرة</wt>
+                        </wr>
+                        <wr wrsidR="006E6D23">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" whint="cs" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve">  .</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="002474D7" wrsidRDefault="002474D7" wrsidP="002474D7">
+                        <wpPr>
+                            <wind wfirstLine="284" />
+                            <wjc wval="center" />
+                            <wrPr>
+                                <wrFonts wascii="Cambria" whAnsi="Cambria" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wlang wbidi="ar-EG" />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Cambria" whAnsi="Cambria" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wlang wbidi="ar-EG" />
+                            </wrPr>
+                            <wt>N</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00E44E52" wrsidRDefault="00E44E52" wrsidP="002474D7">
+                        <wpPr>
+                            <wind wfirstLine="284" />
+                            <wjc wval="center" />
+                            <wrPr>
+                                <wrFonts wascii="Cambria" whAnsi="Cambria" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wlang wbidi="ar-EG" />
+                            </wrPr>
+                        </wpPr>
+                    </wp>
+                    <wp wrsidR="00E44E52" wrsidRDefault="00E44E52" wrsidP="002474D7">
+                        <wpPr>
+                            <wind wfirstLine="284" />
+                            <wjc wval="center" />
+                            <wrPr>
+                                <wrFonts wascii="Cambria" whAnsi="Cambria" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wlang wbidi="ar-EG" />
+                            </wrPr>
+                        </wpPr>
+                    </wp>
+                    <wp wrsidR="00E44E52" wrsidRPr="008073FF" wrsidRDefault="00E44E52" wrsidP="002474D7">
+                        <wpPr>
+                            <wind wfirstLine="284" />
+                            <wjc wval="center" />
+                            <wrPr>
+                                <wrFonts wascii="Cambria" whAnsi="Cambria" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wlang wbidi="ar-EG" />
+                            </wrPr>
+                        </wpPr>
+                    </wp>
+                    <wp wrsidR="002474D7" wrsidRPr="008073FF" wrsidRDefault="002474D7" wrsidP="00661057">
+                        <wpPr>
+                            <wind wfirstLine="284" />
+                            <wjc wval="lowKashida" />
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                                <wlang wbidi="ar-EG" />
+                            </wrPr>
+                        </wpPr>
+                    </wp>
+                    <wp wrsidR="00B04745" wrsidRDefault="00B04745" wrsidP="00661057">
+                        <wpPr>
+                            <wind wfirstLine="284" />
+                            <wjc wval="lowKashida" />
+                            <wrPr>
+                                <wnoProof />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wnoProof />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt>G-E</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="005F0707" wrsidRPr="008073FF" wrsidRDefault="005F0707" wrsidP="00661057">
+                        <wpPr>
+                            <wind wfirstLine="284" />
+                            <wjc wval="lowKashida" />
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                                <wlang wbidi="ar-EG" />
+                            </wrPr>
+                        </wpPr>
+                    </wp>
+                    <wp wrsidR="006421C0" wrsidRPr="008073FF" wrsidRDefault="002474D7" wrsidP="00AD1789">
+                        <wpPr>
+                            <wjc wval="lowKashida" />
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="PT Bold Heading" />
+                                <wb />
+                                <wbCs />
+                                <wcolor wval="FF0000" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wasciiTheme="minorBidi" whAnsiTheme="minorBidi" />
+                                <wcolor wval="404040" wthemeColor="text1" wthemeTint="BF" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt>TB</wt>
+                        </wr>
+                        <wr wrsidR="006421C0" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="PT Bold Heading" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>شروط إعراب</wt>
+                        </wr>
+                        <wr wrsidR="005E0227" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="PT Bold Heading" whint="cs" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                        <wr wrsidR="005E0227" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="PT Bold Heading" whint="cs" />
+                                <wb />
+                                <wbCs />
+                                <wcolor wval="4472C4" wthemeColor="accent5" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>الأسماء الخمسة</wt>
+                        </wr>
+                        <wr wrsidR="005E0227" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="PT Bold Heading" whint="cs" />
+                                <wb />
+                                <wbCs />
+                                <wcolor wval="FF0000" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                        <wproofErr wtype="gramStart" />
+                        <wr wrsidR="005E0227" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="PT Bold Heading" whint="cs" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>بالحروف</wt>
+                        </wr>
+                        <wr wrsidR="00531BAC">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="PT Bold Heading" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> </wt>
+                        </wr>
+                        <wproofErr wtype="gramEnd" />
+                        <wr wrsidR="0030793E" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Simplified Arabic" whAnsi="Simplified Arabic" wcs="Simplified Arabic" />
+                                <wcolor wval="404040" wthemeColor="text1" wthemeTint="BF" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt xmlspace="preserve"> ET</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="006421C0" wrsidRPr="008073FF" wrsidRDefault="006421C0" wrsidP="0089103F">
+                        <wpPr>
+                            <wind wfirstLine="567" />
+                            <wjc wval="lowKashida" />
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>واعلم أن هذه الأسماء الخمسة لا تُعْرَبُ هَذا الإِعراب إلا بشروط، وهذه الشروط منها ما يشترط في</wt>
+                        </wr>
+                        <wr wrsidR="000B2953" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" whint="cs" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve">- </wt>
+                        </wr>
+                        <wr wrsidR="000B2953" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" whint="cs" />
+                                <wcolor wval="FF0000" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve">جميعها </wt>
+                        </wr>
+                        <wr wrsidR="000B2953" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" whint="cs" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>-</wt>
+                        </wr>
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> كلها</wt>
+                        </wr>
+                        <wr wrsidR="00B04745" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>، ومنها ما يشترط في بعضها</wt>
+                        </wr>
+                        <wr wrsidR="00AD1789">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                        <wr wrsidR="006E6D23">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" whint="cs" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve">  .</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00AD1789" wrsidRDefault="0030793E" wrsidP="009674C7">
+                        <wpPr>
+                            <wind wfirstLine="284" />
+                            <wjc wval="lowKashida" />
+                            <wrPr>
+                                <wrFonts wascii="Simplified Arabic" whAnsi="Simplified Arabic" wcs="Simplified Arabic" />
+                                <wcolor wval="404040" wthemeColor="text1" wthemeTint="BF" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Simplified Arabic" whAnsi="Simplified Arabic" wcs="Simplified Arabic" />
+                                <wcolor wval="404040" wthemeColor="text1" wthemeTint="BF" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt>TB</wt>
+                        </wr>
+                        <wr wrsidR="006421C0" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="PT Bold Heading" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve">أما الشروط التي تشترط في </wt>
+                        </wr>
+                        <wproofErr wtype="gramStart" />
+                        <wr wrsidR="006421C0" wrsidRPr="00B86A60">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="PT Bold Heading" />
+                                <wb />
+                                <wbCs />
+                                <wcolor wval="4472C4" wthemeColor="accent5" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>جميعها</wt>
+                        </wr>
+                        <wr wrsidR="00531BAC">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="PT Bold Heading" whint="cs" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> </wt>
+                        </wr>
+                        <wproofErr wtype="gramEnd" />
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Simplified Arabic" whAnsi="Simplified Arabic" wcs="Simplified Arabic" />
+                                <wcolor wval="404040" wthemeColor="text1" wthemeTint="BF" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt xmlspace="preserve"> ET</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="006421C0" wrsidRPr="008073FF" wrsidRDefault="006421C0" wrsidP="009674C7">
+                        <wpPr>
+                            <wind wfirstLine="284" />
+                            <wjc wval="lowKashida" />
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> فأربعة شروط</wt>
+                        </wr>
+                        <wr wrsidR="00531BAC">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> </wt>
+                        </wr>
+                        <wr wrsidR="00AD1789">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                        <wr wrsidR="006E6D23">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt xmlspace="preserve">  .</wt>
+                        </wr>
+                        <wr wrsidR="00AD1789">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="006421C0" wrsidRPr="008073FF" wrsidRDefault="006421C0" wrsidP="0089103F">
+                        <wpPr>
+                            <wind wfirstLine="567" />
+                            <wjc wval="lowKashida" />
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>الأول</wt>
+                        </wr>
+                        <wr wrsidR="00531BAC">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> </wt>
+                        </wr>
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> أن تكون مُفْرَدةً</wt>
+                        </wr>
+                        <wr wrsidR="00AD1789">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                        <wr wrsidR="006E6D23">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve">  .</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="006421C0" wrsidRPr="008073FF" wrsidRDefault="006421C0" wrsidP="0089103F">
+                        <wpPr>
+                            <wind wfirstLine="567" />
+                            <wjc wval="lowKashida" />
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>والثاني</wt>
+                        </wr>
+                        <wr wrsidR="00531BAC">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> </wt>
+                        </wr>
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> أن تكون مُكب</wt>
+                        </wr>
+                        <wr wrsidR="009B2CE4" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" whint="cs" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>ّ</wt>
+                        </wr>
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>َرةً</wt>
+                        </wr>
+                        <wr wrsidR="00AD1789">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                        <wr wrsidR="006E6D23">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve">  .</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="002474D7" wrsidRPr="008073FF" wrsidRDefault="006421C0" wrsidP="008073FF">
+                        <wpPr>
+                            <wind wfirstLine="567" />
+                            <wjc wval="lowKashida" />
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                                <wlang wbidi="ar-EG" />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>والثالث</wt>
+                        </wr>
+                        <wr wrsidR="00531BAC">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> </wt>
+                        </wr>
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> أن تكون مضافة</wt>
+                        </wr>
+                        <wr wrsidR="00AD1789">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                        <wr wrsidR="006E6D23">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve">  .</wt>
+                        </wr>
+                        <wr wrsidR="002474D7" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" whint="cs" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                                <wlang wbidi="ar-EG" />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="006421C0" wrsidRPr="008073FF" wrsidRDefault="006421C0" wrsidP="0089103F">
+                        <wpPr>
+                            <wind wfirstLine="567" />
+                            <wjc wval="lowKashida" />
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>والرابع</wt>
+                        </wr>
+                        <wr wrsidR="00531BAC">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> </wt>
+                        </wr>
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> أن تكون إضافتها لغير ياء المتكل</wt>
+                        </wr>
+                        <wr wrsidR="00E3024D" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" whint="cs" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>ِّ</wt>
+                        </wr>
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>م</wt>
+                        </wr>
+                        <wr wrsidR="00AD1789">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                        <wr wrsidR="006E6D23">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve">  .</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00163D88" wrsidRPr="008073FF" wrsidRDefault="0030793E" wrsidP="005F0707">
+                        <wpPr>
+                            <wind wfirstLine="284" />
+                            <wjc wval="lowKashida" />
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="PT Bold Heading" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Simplified Arabic" whAnsi="Simplified Arabic" wcs="Simplified Arabic" />
+                                <wcolor wval="404040" wthemeColor="text1" wthemeTint="BF" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt>TB</wt>
+                        </wr>
+                        <wr wrsidR="00163D88" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="PT Bold Heading" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>و</wt>
+                        </wr>
+                        <wr wrsidR="006421C0" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="PT Bold Heading" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve">أمّا </wt>
+                        </wr>
+                        <wr wrsidR="00163D88" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="PT Bold Heading" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve">الشروط التي تختص </wt>
+                        </wr>
+                        <wr wrsidR="00163D88" wrsidRPr="00B86A60">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="PT Bold Heading" />
+                                <wcolor wval="4472C4" wthemeColor="accent5" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>ببعضها</wt>
+                        </wr>
+                        <wr wrsidR="00163D88" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="PT Bold Heading" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> دون </wt>
+                        </wr>
+                        <wproofErr wtype="gramStart" />
+                        <wr wrsidR="00163D88" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="PT Bold Heading" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>بعض</wt>
+                        </wr>
+                        <wr wrsidR="00531BAC">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="PT Bold Heading" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> </wt>
+                        </wr>
+                        <wproofErr wtype="gramEnd" />
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Simplified Arabic" whAnsi="Simplified Arabic" wcs="Simplified Arabic" />
+                                <wcolor wval="404040" wthemeColor="text1" wthemeTint="BF" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt xmlspace="preserve"> ET</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00D356E9" wrsidRPr="008073FF" wrsidRDefault="006421C0" wrsidP="0089103F">
+                        <wpPr>
+                            <wpStyle wval="ListParagraph" />
+                            <wnumPr>
+                                <wilvl wval="0" />
+                                <wnumId wval="3" />
+                            </wnumPr>
+                            <wind wleft="0" wfirstLine="567" />
+                            <wcontextualSpacing wval="0" />
+                            <wjc wval="lowKashida" />
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>كلمة " فُوكَ " لا تُعْرَبُ هذا الإِع</wt>
+                        </wr>
+                        <wr wrsidR="00163D88" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>رابُ إلاّ بشرط أن تخلو من الميم</wt>
+                        </wr>
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>، فلو اتصلت به</wt>
+                        </wr>
+                        <wr wrsidR="00163D88" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>ا الميم أُعربت بالحركات الظاهرة</wt>
+                        </wr>
+                        <wr wrsidR="00F74E79">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                        <wr wrsidR="00AD1789">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                        <wr wrsidR="006E6D23">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" whint="cs" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve">  .</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00E559F9" wrsidRDefault="006421C0" wrsidP="0089103F">
+                        <wpPr>
+                            <wind wfirstLine="284" />
+                            <wjc wval="lowKashida" />
+                            <wrPr>
+                                <wnoProof />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                        <wr wrsidR="00D356E9" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wnoProof />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt>G-E</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="0089103F" wrsidRPr="008073FF" wrsidRDefault="006421C0" wrsidP="0089103F">
+                        <wpPr>
+                            <wind wfirstLine="284" />
+                            <wjc wval="lowKashida" />
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>تقول</wt>
+                        </wr>
+                        <wr wrsidR="00531BAC">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> </wt>
+                        </wr>
+                        <wr wrsidR="00163D88" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> "هذَا فَمٌ حَسَنٌ"، وتقول</wt>
+                        </wr>
+                        <wr wrsidR="00531BAC">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> </wt>
+                        </wr>
+                        <wr wrsidR="00163D88" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> "رأَيْتُ فَماً حَسَنًا"، وتقول</wt>
+                        </wr>
+                        <wr wrsidR="00531BAC">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> </wt>
+                        </wr>
+                        <wr wrsidR="003065EB" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" whint="cs" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                        <wr wrsidR="00163D88" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>"نَظَرْتُ إلَى فَمٍ حَسَنٍ</wt>
+                        </wr>
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>"</wt>
+                        </wr>
+                        <wr wrsidR="00163D88" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>،</wt>
+                        </wr>
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> وهذا شر</wt>
+                        </wr>
+                        <wr wrsidR="00163D88" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>ط</wt>
+                        </wr>
+                        <wr wrsidR="00FA5FBC" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" whint="cs" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>ٌ</wt>
+                        </wr>
+                        <wr wrsidR="00163D88" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> زائد</wt>
+                        </wr>
+                        <wr wrsidR="00FA5FBC" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" whint="cs" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>ٌ</wt>
+                        </wr>
+                        <wr wrsidR="00163D88" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> في هذه الكلمة بخصوصها على الشروط الأربعة التي سبق ذكرها</wt>
+                        </wr>
+                        <wr wrsidR="006E6D23">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve">  .</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00163D88" wrsidRPr="008073FF" wrsidRDefault="00163D88" wrsidP="0089103F">
+                        <wpPr>
+                            <wpStyle wval="ListParagraph" />
+                            <wnumPr>
+                                <wilvl wval="0" />
+                                <wnumId wval="3" />
+                            </wnumPr>
+                            <wjc wval="lowKashida" />
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wlastRenderedPageBreak />
+                            <wt>كلمة "ذو</wt>
+                        </wr>
+                        <wr wrsidR="006421C0" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>" لا تع</wt>
+                        </wr>
+                        <wr wrsidR="00243CA8" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>رَبُ هذا الإِعرَاب</wt>
+                        </wr>
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> إلا بِشرطين</wt>
+                        </wr>
+                        <wr wrsidR="00AD1789">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                        <wr wrsidR="00531BAC">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> </wt>
+                        </wr>
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00163D88" wrsidRPr="008073FF" wrsidRDefault="00163D88" wrsidP="0089103F">
+                        <wpPr>
+                            <wind wfirstLine="567" />
+                            <wjc wval="lowKashida" />
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>الأول</wt>
+                        </wr>
+                        <wr wrsidR="00531BAC">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> </wt>
+                        </wr>
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> أن تكون بمعنى</wt>
+                        </wr>
+                        <wr wrsidR="003065EB" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" whint="cs" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>"</wt>
+                        </wr>
+                        <wr wrsidR="006421C0" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>صاحب</wt>
+                        </wr>
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>"</wt>
+                        </wr>
+                        <wr wrsidR="00AD1789">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                        <wr wrsidR="00F74E79">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                        <wr wrsidR="006E6D23">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve">  .</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="006421C0" wrsidRPr="008073FF" wrsidRDefault="00163D88" wrsidP="0089103F">
+                        <wpPr>
+                            <wind wfirstLine="567" />
+                            <wjc wval="lowKashida" />
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>والثاني</wt>
+                        </wr>
+                        <wr wrsidR="00531BAC">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> </wt>
+                        </wr>
+                        <wr wrsidR="006421C0" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> أن يكون الذي تضاف إليه اسمَ جنس ظاهر</wt>
+                        </wr>
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>ًا</wt>
+                        </wr>
+                        <wr wrsidR="006421C0" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> غَيْرَ وَصْفٍ</wt>
+                        </wr>
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve">؛ فإن لم يكن </wt>
+                        </wr>
+                        <wr wrsidR="0089103F" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" whint="cs" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>بمعنى "صاح</wt>
+                        </wr>
+                        <wr wrsidR="0089103F" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" whint="eastAsia" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>ب</wt>
+                        </wr>
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>" بأن كانت موصولة فهي مَبْنيَّةٌ</wt>
+                        </wr>
+                        <wr wrsidR="00AD1789">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                        <wr wrsidR="006E6D23">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve">  .</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="00E450EA" wrsidRPr="008073FF" wrsidRDefault="00B04745" wrsidP="00B04745">
+                        <wpPr>
+                            <wind wfirstLine="567" />
+                            <wjc wval="lowKashida" />
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wnoProof />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt>G-</wt>
+                        </wr>
+                        <wr wrsidR="008073FF" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wnoProof />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt>E</wt>
+                        </wr>
+                        <wr wrsidR="008073FF" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" whint="cs" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"> ذو</wt>
+                        </wr>
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" whint="cs" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                        <wr wrsidR="006421C0" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>غيرَ م</wt>
+                        </wr>
+                        <wr wrsidR="00163D88" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve">َوْصُولة قولُ أبي الطيب </wt>
+                        </wr>
+                        <wproofErr wtype="gramStart" />
+                        <wr wrsidR="00163D88" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>المتنبي</wt>
+                        </wr>
+                        <wr wrsidR="00AD1789">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                        <wr wrsidR="00531BAC">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt xmlspace="preserve"> </wt>
+                        </wr>
+                        <wproofErr wtype="gramEnd" />
+                        <wr wrsidR="00AD1789">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                        <wr wrsidR="006E6D23">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt xmlspace="preserve">  .</wt>
+                        </wr>
+                        <wr wrsidR="00AD1789">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="006421C0" wrsidRPr="008073FF" wrsidRDefault="00AD1789" wrsidP="00AD1789">
+                        <wpPr>
+                            <wind wfirstLine="284" />
+                            <wjc wval="center" />
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wr>
+                            <wrPr>
+                                <wrFonts wascii="Simplified Arabic" whAnsi="Simplified Arabic" wcs="Simplified Arabic" />
+                                <wnoProof />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt>D</wt>
+                        </wr>
+                        <wr wrsidR="0089103F" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Simplified Arabic" whAnsi="Simplified Arabic" wcs="Simplified Arabic" />
+                                <wnoProof />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt>B</wt>
+                        </wr>
+                        <wr wrsidR="0089103F" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                        <wr wrsidR="006421C0" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve">ذُو الْعَقْلِ يَشْقَى في النَّعِيمِ بَعَقْلِهِ </wt>
+                        </wr>
+                        <wr wrsidR="00803518" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>**</wt>
+                        </wr>
+                        <wr wrsidR="00163D88" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                        <wr wrsidR="006421C0" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>وَأَخُو الْجَهَالَةِ في الشّقَاوَةِ يَنْعَم</wt>
+                        </wr>
+                        <wproofErr wtype="gramStart" />
+                        <wr wrsidR="006421C0" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>ُ</wt>
+                        </wr>
+                        <wr wrsidR="0089103F" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Simplified Arabic" whAnsi="Simplified Arabic" wcs="Simplified Arabic" />
+                                <wnoProof />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                        <wr>
+                            <wrPr>
+                                <wrFonts wascii="Simplified Arabic" whAnsi="Simplified Arabic" wcs="Simplified Arabic" />
+                                <wnoProof />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                        <wr wrsidR="0089103F" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Simplified Arabic" whAnsi="Simplified Arabic" wcs="Simplified Arabic" />
+                                <wnoProof />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt>E</wt>
+                        </wr>
+                        <wr>
+                            <wrPr>
+                                <wrFonts wascii="Simplified Arabic" whAnsi="Simplified Arabic" wcs="Simplified Arabic" />
+                                <wnoProof />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt>D</wt>
+                        </wr>
+                        <wproofErr wtype="gramEnd" />
+                    </wp>
+                    <wp wrsidR="00E400D5" wrsidRPr="008073FF" wrsidRDefault="006421C0" wrsidP="00163D88">
+                        <wpPr>
+                            <wind wfirstLine="284" />
+                            <wjc wval="lowKashida" />
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>وهذان الشرطان ز</wt>
+                        </wr>
+                        <wr wrsidR="00163D88" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>ائدانِ في هذه الكلمة بخصوصها على الشروط الأربعة التي سبق ذكرها</wt>
+                        </wr>
+                        <wr wrsidR="00AD1789">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                        <wr wrsidR="006E6D23">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve">  .</wt>
+                        </wr>
+                    </wp>
+                    <wp wrsidR="002D330D" wrsidRPr="008073FF" wrsidRDefault="00DC1EC9" wrsidP="00DC1EC9">
+                        <wpPr>
+                            <wind wfirstLine="284" />
+                            <wjc wval="lowKashida" />
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" weastAsia="Times New Roman" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                        </wpPr>
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" weastAsia="Times New Roman" whAnsi="Lotus Linotype" wcs="Lotus Linotype" whint="cs" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>ظاهرٍ أعربت بالحركات المقد</wt>
+                        </wr>
+                        <wr wrsidR="005D1EE9" wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" weastAsia="Times New Roman" whAnsi="Lotus Linotype" wcs="Lotus Linotype" whint="cs" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>َّ</wt>
+                        </wr>
+                        <wr wrsidRPr="008073FF">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" weastAsia="Times New Roman" whAnsi="Lotus Linotype" wcs="Lotus Linotype" whint="cs" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt>رة على الألف</wt>
+                        </wr>
+                        <wr wrsidR="00AD1789">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" weastAsia="Times New Roman" whAnsi="Lotus Linotype" wcs="Lotus Linotype" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                            </wrPr>
+                            <wt xmlspace="preserve"></wt>
+                        </wr>
+                        <wr wrsidR="006E6D23">
+                            <wrPr>
+                                <wrFonts wascii="Lotus Linotype" weastAsia="Times New Roman" whAnsi="Lotus Linotype" wcs="Lotus Linotype" whint="cs" />
+                                <wb />
+                                <wbCs />
+                                <wsz wval="32" />
+                                <wszCs wval="32" />
+                                <wrtl />
+                            </wrPr>
+                            <wt xmlspace="preserve">  .</wt>
+                        </wr>
+                    </wp>
+                    <wsectPr wrsidR="002D330D" wrsidRPr="008073FF" wrsidSect="006421C0">
+                        <wpgSz ww="11906" wh="16838" />
+                        <wpgMar wtop="1440" wright="1800" wbottom="1440" wleft="1800" wheader="708" wfooter="708" wgutter="0" />
+                        <wpgBorders woffsetFrom="page">
+                            <wtop wval="single" wsz="4" wspace="24" wcolor="auto" />
+                            <wleft wval="single" wsz="4" wspace="24" wcolor="auto" />
+                            <wbottom wval="single" wsz="4" wspace="24" wcolor="auto" />
+                            <wright wval="single" wsz="4" wspace="24" wcolor="auto" />
+                        </wpgBorders>
+                        <wcols wspace="708" />
+                        <wbidi />
+                        <wrtlGutter />
+                        <wdocGrid wlinePitch="360" />
+                    </wsectPr>
+                </wbody>
+      
