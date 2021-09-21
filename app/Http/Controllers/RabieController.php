@@ -1547,71 +1547,7 @@ $("body").removeClass("in-fullscreen");
    $file = $request->file('filename');
     $originalname = $file->getClientOriginalName();
     $temp_file='zip://'.$file.'#word/document.xml';
-
-    //$result = file_get_contents($temp_file);   
-      //Load the document XML into PHP's SimpleXML
-      //echo $result;
-      
-      // $xml = simplexml_load_string($result);
-      
-      // $body= $xml->body;
-
-      // foreach($body[0] as $key => $value){
-      //     echo "<p>";
-      //     if($key == "p"){
-      //         foreach ($value->r as $kkey => $vvalue) {
-      //             echo (string)$vvalue->t;
-      //         }
-      //     }
-      //     echo "</p>";
-      // }
-
-
-
-    /*
-    $zip = new ZipArchive; 
-
-    $sUploadedFile = $originalname ;
-
-    $zip->open("word_document/$sUploadedFile");
-    $aFileName = explode('.',$sUploadedFile);
-    $sDirectoryName =  current($aFileName);
-    echo "r0";
-    if (!is_dir("word_document/$sDirectoryName")){
-        mkdir("word_document/$sDirectoryName", 0777, true);
-
-        $zip->extractTo("word_document/$sDirectoryName"); 
-        copy("word_document/$sDirectoryName/word/document.xml", "xml_document/$sDirectoryName.xml");
     
-        $xml = simplexml_load_file("xml_document/$sDirectoryName.xml");
-        $xml->registerXPathNamespace('w',"http://schemas.openxmlformats.org/wordprocessingml/2006/main");
-        $text = $xml->xpath('//w:t');
-    
-        echo '<pre>'; print_r($text); echo '</pre>';
-    
-        rrmdir("word_document/$sDirectoryName");
-    }
-    echo "r1";
-    function rrmdir($dir) {
-      if (is_dir($dir)) {
-        $objects = scandir($dir);
-        foreach ($objects as $object) {
-          if ($object != "." && $object != "..") {
-            if (filetype($dir."/".$object) == "dir") 
-               rrmdir($dir."/".$object); 
-            else unlink   ($dir."/".$object);
-          }
-        }
-        reset($objects);
-        rmdir($dir);
-      }
-     }
-    
-
-*/
-
-
-
     /////////////////////////////////////
 
       $value = $request->file('filename');
@@ -1670,10 +1606,11 @@ $("body").removeClass("in-fullscreen");
   
  // $file->move('public_uploads',  $originalname );
  $Lname= $this->tester($nam,$username,$name,$Name_Lesson);
-  echo '<a href="'.$username.'/'.$name.'/'.$Lname.'" > أضغط لتحميل الملف </a>';
-$data="$username.'/'.$name.'/'.$Lname.'"; 
-  //echo '<a href="'.$username.'/'.$name.'/'.$request->lesson.$zipname.'" > أضغط لتحميل الملف </a>';
-  return redirect()->back()->with(['data' => $data]);
+  //echo '<a style="text-align:center ;background-color: #3490dc;" href="'.$username.'/'.$name.'/'.$Lname.'" > أضغط لتحميل الملف </a>';
+  $data="$username/$name/$Lname"; 
+  
+//echo $data;//echo '<a href="'.$username.'/'.$name.'/'.$request->lesson.$zipname.'" > أضغط لتحميل الملف </a>';
+  return view('/home',compact('data'));
   
 
 
