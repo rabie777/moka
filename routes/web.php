@@ -27,7 +27,9 @@ Route::get('/',function () {
     return view('face');
 })->name('page')->middleware('auth');
 
-
+Route::get('start',function () {
+    return view('start');
+})->middleware('auth');
 
  
  //Route::post('/convert', '\App\Http\Controllers\InterFaceController@rabie')->name('convert');
@@ -45,3 +47,4 @@ Route::get('/',function () {
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+Route::get('/mokahome', 'HomeController@mokaindex')->name('home');

@@ -25,4 +25,8 @@ class HomeController extends Controller
     {
         return view('face');
     }
+    public function mokaindex()
+    {
+        return view('face');
+    }
 }

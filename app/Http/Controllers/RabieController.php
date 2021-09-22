@@ -142,6 +142,8 @@ class RabieController extends Controller
             }
             if ((isset($Rinfo["Font"]))) {
               $Font = $Rinfo["Font"];
+              
+               
             }
             if ((isset($Rinfo["Bold"]))) {
                 $Bold = "Bold";
@@ -246,7 +248,15 @@ class RabieController extends Controller
           
               $vowels = array('HB','MB','TB','RB','ER','EM','ET','EH','ED','DB','SB','ES','MB','EM','FB','EF','LB','EL','ZB','EZ');
               $data=trim(str_replace($vowels, '', $kid1));
-              if(!empty($data)){
+              
+            
+               
+
+
+
+              if (str_ends_with($data,'.')||str_ends_with($data,'/')) {
+                
+               
               $text .= "<span style='";
               if ($color) {
                $text .= "color:#" .$color. ";";
@@ -261,22 +271,70 @@ class RabieController extends Controller
                             switch ($size) {
                               case '44':
                                 $size=30;
-                                $text.="font-size:" .$size. ";";
+                                $text.="font-size:" .$size. "px;";
                                 break;
                               case '28':
                                 $size=20;
-                                $text.="font-size:" .$size. ";";
+                                $text.="font-size:" .$size. "px;";
                                 break;
                               case '32':
-                                $size=20;
-                                $text.="font-size:" .$size. ";";
+                                $size=25;
+                                $text.="font-size:" .$size. "px;";
                                 break;
                               
                             }
              
               }
-              $text .="'>".$data."&nbsp</span> ";
+              if($data=="/"){
+                $data=trim(str_replace('/', '', $kid1));
+                
             }
+              $text .="'>".$data ."</span><br> ";
+
+            }
+            else{
+
+              $text .= "<span style='";
+              if ($color) {
+               $text .= "color:#" .$color. ";";
+              }
+              if ($Font) {
+                if($Font=='Almarai Bold')
+              {
+                $font_weight= 700;
+                $text.="font-weight:" .$font_weight. ";";
+              }
+               $text.="font-family:" .$Font. ";";
+              }
+              if($Bold) {
+                $text.="font-weight:" .$Bold. ";";
+              }
+              if($size) {
+                            switch ($size) {
+                              case '44':
+                                $size=30;
+                                $text.="font-size:" .$size. "px;";
+                                break;
+                              case '28':
+                                $size=20;
+                                $text.="font-size:" .$size. "px;";
+                                break;
+                              case '32':
+                                $size=25;
+                                $text.="font-size:" .$size. "px;";
+                                break;
+                              
+                            }
+             
+              }
+              $text .="'>".$data." "."</span>";
+
+
+
+            }
+            
+           // $text .= $data." ";
+
               $color = "";
               $size = "";
               $Bold = "";
@@ -454,7 +512,7 @@ class RabieController extends Controller
               $Bold="";
               $color = "";
               $kid1=trim($kid1);
-              if ($kid1 == '.' ||$kid1 == '؟'||$kid1 == ':.') {
+              if ($kid1 == '؟'||$kid1 == ':') {
                 $text .= "<br>";
               }
 
@@ -562,6 +620,9 @@ class RabieController extends Controller
 
         <link href="https://fonts.googleapis.com/css?family=Cairo|Tajawal&amp;display=swap" rel="stylesheet">
         <link rel="stylesheet" type="text/css" href="https://www.fontstatic.com/f=bahij">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Almarai:wght@400;700;800&display=swap" rel="stylesheet">
 
 
         <link rel="stylesheet" type="text/css"
@@ -731,6 +792,7 @@ class RabieController extends Controller
               if ($count == 1) {
                 $num = $count;
                 $bef = "LeftArrow off ";
+                $onclick="return false;";
               } else {
                 $num = $count - 1;
               }
@@ -758,11 +820,11 @@ class RabieController extends Controller
         <div class="table-cell MainScr_bot_right"></div> 
         <div class="table-cell MainScr_bot_med"> 
 
-        <a href="01-01-01-0' . $num . '.html" class="' . $bef . '" title="السابق"></a>
+        <a href="01-01-01-0' . $num . '.html"  onclick="'.$onclick.'" class="' . $bef . '" title="السابق"></a>
 
         <a href="01-01-01-01.html" class="HomeArrow" title="المقدمة"></a> 
 
-        <a href="01-01-01-0' . $next . '.html" class="' . $nxt . '" title="التالي"></a>
+        <a href="01-01-01-0' . $next . '.html"  class="' . $nxt . '" title="التالي"></a>
 
          <a href="javascript:void()" class="centerArrow " title="جميع الحقوق محفوظة دار الإفتاء المصرية"></a> 
          <img id="increaseFont" src="https://storage.googleapis.com/ifta-learning-dp/uploads/ifta_content/temps/nassets/images/templates/Temp-General/FontPlus.png" class="FontPlus" title="تكبير حجم الخط"> 
@@ -1477,6 +1539,7 @@ $("body").removeClass("in-fullscreen");
     } else {
      // echo $count;
       $next = $count;
+      
       ////////////////////////
 
       $tools = '
@@ -1492,7 +1555,7 @@ $("body").removeClass("in-fullscreen");
 
        <a href="01-01-01-01.html" class="HomeArrow" title="المقدمة"></a> 
 
-       <a href="01-01-01-0' . $next . '.html" class="RightArrow off" title="التالي"></a> 
+       <a href="01-01-01-0' . $next . '.html" onclick="return false;" class="RightArrow off" title="التالي"></a> 
 
        <a href="javascript:void()" class="centerArrow " title="جميع الحقوق محفوظة دار الإفتاء المصرية"></a> 
        <img id="increaseFont" src="https://storage.googleapis.com/ifta-learning-dp/uploads/ifta_content/temps/nassets/images/templates/Temp-General/FontPlus.png" class="FontPlus" title="تكبير حجم الخط"> 
