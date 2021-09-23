@@ -17,7 +17,7 @@
   @error('filename')
   <small class="form-text text-danger">{{$message}} </small>
   @enderror
-  <input class="form-control form-control-lg" id="formFileLg" type="text" name="lesson" placeholder="ادخل كود الدورة اوالدرس" >
+  <input class="form-control form-control-lg" id="formFileLg" type="text" name="lesson" placeholder="ادخل كود المقرر اوالدرس" >
   @error('lesson')
   <small class="form-text text-danger">{{$message}} </small>
   @enderror

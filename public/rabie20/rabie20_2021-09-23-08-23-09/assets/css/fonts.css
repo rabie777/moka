@@ -1,0 +1,551 @@
+/*template styles   */
+
+.اسم-الدرس{
+	font-size:28px;
+	color:#0f64aa;
+	font-family:"arial";
+	text-align:right;
+	font-weight:bold;
+	direction:rtl;
+	padding-right: 9px;
+	line-height: 51px;
+	text-align: center;
+	padding-top: 10px;
+	background:url(../img/tittle_under_line.png) center bottom  no-repeat !important;
+}
+.poetry{
+width: 45%;
+    float: right;
+    padding-left: 5%;
+	font-weight:bold;
+}
+.lesson_tittle2{
+	width: 95%;
+    font-size: 19px;
+    text-align: left;
+	color:#0f64aa;
+	font-family:"arial";
+	font-weight:bold;
+	direction:rtl;
+	line-height: 51px;
+	padding-top: 10px;
+	background:url(../img/tittle_under_line.png) center bottom  no-repeat !important;
+}
+.عنوان-فرعي1{
+	font-size:22px;
+	color:#243c85;
+	font-family:"arial";
+	text-align:center;
+	font-weight:bold;
+	direction:rtl;
+
+	background:url(../icons/style/sub-tittle.png) bottom left no-repeat !important;
+}
+.عنوان-فرعي2{
+	font-size:22px;
+	color:#000000;
+	font-family:"arial";
+	text-align:right;
+	font-weight:bold;
+	direction:rtl;
+}
+.ايات{
+	font-size:20px;
+	color:#105505;
+	text-align:justify;
+}
+.الغريب{
+	font-size:20px;
+	color:#0214ff;
+	font-family:"arial";
+	text-align:justify;
+	font-weight:bold;
+}
+.الحديث{
+	font-size:20px;
+	color:#18549a;
+	font-family:"arial";
+	text-align:justify;
+	font-weight:bold;
+}
+.الاعلام{
+	font-size:20px;
+	color:#105505;
+	font-family:"arial";
+	text-align:justify;
+	font-weight:bold;
+}
+.المصطلحات{
+	font-size:20px;
+	color:#561098;
+	font-family:"arial";
+	text-align:justify;
+	font-weight:bold;
+}
+.عناصر{
+	font-size:22px;
+	color:#ba3636;
+	font-family:"arial";
+	text-align:right;
+	font-weight:bold;
+	direction:rtl;
+	
+}
+p .عناصر{
+	font-size:22px;
+	color:#ba3636;
+	font-family:"arial";
+	text-align:right;
+	font-weight:bold;
+	direction:rtl;
+	padding-bottom: 15px;
+	padding-left: 15px;
+	background:url(../icons/style/sub-tittle.png) bottom left no-repeat !important;
+}
+.المتن{
+	font-size:20;
+	color:#a01c1c;
+	font-family:"arial";
+	text-align:justify;
+	font-weight:bold;
+}
+.فقرة-خط{
+	background:url(../icons/style/line.png) bottom center no-repeat !important;
+	font-size:20px;
+	color:#000000;
+	font-family:"arial";
+	text-align:justify;
+	padding-bottom:30px;
+}
+.فقرة{
+	font-size:20px;
+	color:#000000;
+	font-family:"arial";
+	text-align:justify;
+}
+.فقرة-وسط{
+	font-size:20px;
+	color:#000000;
+	font-family:"arial";
+	text-align:center;
+}
+.فقرة-بمسافة{
+	font-size:20px;
+	color:#000000;
+	font-family:"arial";
+	text-align:justify;
+	
+}
+.مربع-نشاط{
+	font-size:20px;
+	color:#000000;
+	font-family:"arial";
+	text-align:justify;
+	padding-top: 10px;
+	width:592px;
+	background:url(../icons/style/q1.jpg) top center no-repeat !important;
+}
+.qborder{
+	font-size:20px;
+	color:#000000;
+	font-family:"arial";
+	text-align:justify;
+	padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+	background:url(../icons/style/q3.jpg) bottom center no-repeat !important;
+}
+
+.readmore{
+	font-size:19px;
+	text-align:left;
+	background: url("../icons/style/button.png") repeat-x scroll center bottom transparent !important;
+    color: #44281B;
+    font-weight: bold;
+    text-decoration: none;
+	margin-right:auto;
+}
+.عنوان-نشاط{
+	font-size:22px;
+	color:#4f2819;
+	font-family:"arial";
+	text-align:right;
+	font-weight:bold;
+	direction:rtl;
+	padding-right: 45px;
+}
+.مربع-بوربوينت{
+	font-size:20px;
+	color:#000000;
+	font-family:"arial";
+	text-align:center;
+	height:48px;
+	line-height:48px;
+	
+}
+.مربع-بوربوينت a{
+	background:url(../img/video_plyer_2.png) 99% top  no-repeat !important;
+	text-decoration:none;
+	color:#f8f6f5;
+	font-weight:bold;
+	padding-top: 1px;
+    padding-bottom: 3px;
+    padding-right: 50px;
+    padding-left: 35px;
+width: 330px;
+    height: 33px;
+    display: block;
+    padding: 0px;
+    margin: auto;
+    margin-top: 20px;
+	
+}
+.مربع-خريطة{
+	font-size:20px;
+	color:#000000;
+	font-family:"arial";
+	text-align:center;
+	height:48px;
+	line-height:48px;
+	
+}
+.مربع-خريطة a{
+	background:url(../img/map.png) 99% top  no-repeat !important;
+	text-decoration:none;
+	color:#44281b;
+	font-weight:bold;
+	padding-top: 3px;
+    padding-bottom: 3px;
+    padding-right: 35px;
+    padding-left: 35px;
+}
+.مربع-فيديو{
+	font-size:20px;
+	color:#000000;
+	font-family:"arial";
+	text-align:justify;
+	border:thick #000 solid;
+}
+.فقرة a[href^="#"]{
+	background:url(../icons/style/button.png) center bottom repeat-x !important;
+	text-decoration:none;
+	color:#44281b;
+	padding-right:3px;
+	padding-left:3px;
+	font-weight:bold;
+}
+.فقرة-بمسافة a{
+	background:url(../icons/style/button.png) center bottom repeat-x !important;
+	text-decoration:none;
+	color:#44281b;
+	padding-right:3px;
+	padding-left:3px;
+	font-weight:bold;
+}
+.Header_Box{
+	font-size: 30px !important;
+
+	border-top-right-radius: 15px;
+	border-top-left-radius: 15px;
+	min-width: auto;
+	max-width: 90%;
+	/* margin: 20px; */
+	height: 30px;
+	width:95%;
+	font-family: 'Roboto', sans-serif;
+    padding-top: 12px;
+	padding-bottom: 12px;
+    text-align: center;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-left: 20PX;
+	margin-top: 0px;
+	margin-left: 10PX;
+	margin-right: 10PX;
+	
+	border-top: #767171 dashed 2px;
+	border-right: #767171 dashed 2px;
+	border-left: #767171 dashed 2px;
+	border-bottom: #0070c0 solid 10px; 
+	
+}
+
+.Reference_Box{
+	min-width: auto;
+    max-width: 100%;
+    
+    width: fit-content;
+    height: auto;
+    min-height: 30px;
+    height: auto !important;
+    height: 30px;
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding-top: 33px;
+    padding-bottom: 12px;
+    padding-left: 50px;
+    padding-right: 52px;
+    border: #000000 dashed 1px;
+    position: relative;
+    border-radius: 25px;
+	font-size: 22px !important;
+	text-align: justify;
+
+}
+
+.Reference_Box:after {
+    content:'';
+    position: absolute;
+    top: -25px;/*position of the background*/
+    right: 20px;/*position of the background*/
+    background:url(../icons/G-R.png) center right no-repeat ;
+    width: 100px;/*width of the background*/
+    height: 45px;/*height of the background*/
+}
+.Defination_Box{
+	min-width: auto;
+    max-width: 100%;
+    
+    width: fit-content;
+    height: auto;
+    min-height: 30px;
+    height: auto !important;
+    height: 30px;
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding-top: 33px;
+    padding-bottom: 12px;
+    padding-left: 10px;
+    padding-right: 20px;
+    border: #000000 dashed 1px;
+    position: relative;
+    border-radius: 25px;
+	font-size: 22px !important;
+	text-align: justify;
+
+}
+
+.Defination_Box:after {
+    content:'';
+    position: absolute;
+    top: -25px;/*position of the background*/
+    right: 20px;/*position of the background*/
+    background:url(../icons/G-T.png) center right no-repeat ;
+	width: 150px;
+    height: 57px;
+}
+.Conclusion_Box{
+	min-width: auto;
+    max-width: 100%;
+    
+    width: fit-content;
+    height: auto;
+    min-height: 30px;
+    height: auto !important;
+    height: 30px;
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding-top: 33px;
+    padding-bottom: 12px;
+    padding-left: 50px;
+    padding-right: 15px;
+	padding-LEFT: 15px;
+    border: #000000 dashed 1px;
+    position: relative;
+    border-radius: 25px;
+	text-align: justify;
+
+}
+
+.Conclusion_Box:after {
+    content:'';
+    position: absolute;
+    top: -25px;/*position of the background*/
+    right: 20px;/*position of the background*/
+    background:url(../icons/G-Z.png) center right no-repeat ;
+    width: 100%;/*width of the background*/
+    height: 45px;/*height of the background*/
+}
+.introduction_Box{
+	min-width: auto;
+    max-width: 100%;
+    
+    width: fit-content;
+    height: auto;
+    min-height: 30px;
+    height: auto !important;
+    height: 30px;
+   
+    margin-top: 40px;
+    margin-bottom: 40px;
+	margin-left:10px;
+    padding-top: 33px;
+    padding-bottom: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: #767171 dashed 3px;
+    position: relative;
+    border-radius: 25px;
+	font-size: 22px !important;
+	text-align: justify;
+}
+
+.introduction_Box:after {
+    content:'';
+    position: absolute;
+    top: -25px;/*position of the background*/
+    right: 20px;/*position of the background*/
+    background:url(../icons/G-A.png) center right no-repeat ;
+    width: 150px;
+    height: 57px;
+}
+.Aims_Box{
+	min-width: auto;
+    max-width: 100%;
+    
+    width: fit-content;
+    height: auto;
+    min-height: 30px;
+    height: auto !important;
+    height: 30px;
+   
+    margin-top: 40px;
+	margin-left:10px;
+    margin-bottom: 40px;
+    padding-top: 33px;
+    padding-bottom: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: #767171 dashed 3px;
+    position: relative;
+    border-radius: 25px;
+	font-size: 22px !important;
+	text-align: justify;
+
+}
+
+.Aims_Box:after {
+    content:'';
+    position: absolute;
+    top: -25px;/*position of the background*/
+    right: 20px;/*position of the background*/
+    background:url(../icons/G-G.png) center right no-repeat ;
+    width: 150px;
+    height: 57px;
+}
+
+.poem_Box{
+	min-width: auto;
+    max-width: 100%;
+    width: fit-content;
+    height: auto;
+    min-height: 30px;
+    height: auto !important;
+    height: 30px;
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding-top: 33px;
+    padding-bottom: 12px;
+    padding-left: 10px;
+    padding-right: 20px;
+    border: #000000 dashed 1px;
+    position: relative;
+    border-radius: 25px;
+	font-size: 22px !important;
+	text-align: justify;
+
+}
+
+.poem_Box:after {
+    content:'';
+    position: absolute;
+    top: -25px;/*position of the background*/
+    right: 20px;/*position of the background*/
+	width: 150px;
+    height: 57px;
+}
+
+
+
+.saying-imagetop{
+	background:url(../icons/sbb_bg_right.png) center top no-repeat;
+	width: 401px;
+	height:44px;
+	 /* padding-right: 2px;  
+} */
+}
+.saying-imagebottom{
+	background:url(../icons/sb_bg_left.png) center top no-repeat;
+	width: 401px;
+	height:44px;
+	 /* padding-right: 2px;   */
+	
+}
+.Saying_Box{
+	background:url(../icons/sb_bg_center.png) right center repeat-y ;
+	
+	min-width: 214px; 
+     max-width: 70%;
+    width: 323px; 
+    /* height: auto; */
+    text-align: center;
+	min-height: 30px;
+	/* padding-left: 2px; */
+    height: auto !important; 
+    height: 50px;
+	  padding-right: 108px;   
+	 font-size: 22px !important;
+     padding-top: 10px;
+    /* padding-left: 45px;
+    padding-right: 130px;  */
+	margin: 0px;
+	text-align: justify;
+
+}
+.main-imageright{
+	background:url(../icons/tb_bg_right.png) center right no-repeat;
+	width: 85px;
+	height:50px;
+	padding-top: 18px; 
+	padding-bottom: 13px; 
+}
+.main-imageleft{
+	background:url(../icons/tb_bg_left.png) center left no-repeat;
+	width: 100px;
+	padding-top: 18px; 
+	padding-bottom: 13px; 
+	height:50px;
+}
+.main{
+	display: flex;
+	
+}
+.Title_Box
+{
+	background:url(../icons/tb_bg.png) center center repeat-x  ;
+	min-width: 345px;
+    max-width: auto;
+	/* padding-bottom: 15px; */
+    width: 100px;
+    /* height:auto; */
+	min-height:50px;
+	/* height:auto !important;       */
+	height:50px;
+	 padding-top: 18px;  
+	 padding-bottom: 13px; 
+    text-align: center;
+    padding-left: 35px;
+    padding-right: 33px;
+	font-size: 25px !important;
+}
+.Input_Box{
+
+	width: fit-content;
+	text-align: center;
+	margin: auto;
+	border: #767171 outset 1px;
+}

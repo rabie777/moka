@@ -81,7 +81,7 @@ class RabieController extends Controller
 
 
               if ($kid2->getName() == "wt") {
-
+                $kid2=str_replace('&rlm','',$kid2);
                 $text.="<span style='";
                 if ((isset($Rinfo["color"]))) {
                   $color = $Rinfo["color"];
@@ -90,7 +90,24 @@ class RabieController extends Controller
 
                 if ((isset($Rinfo["size"]))) {
                   $size = $Rinfo["size"];
-                  $text.="font-size:".$size.";";
+                  if($size) {
+                    switch ($size) {
+                      case '44':
+                        $size=30;
+                        $text.="font-size:" .$size. "px;";
+                        break;
+                      case '28':
+                        $size=20;
+                        $text.="font-size:" .$size. "px;";
+                        break;
+                      case '32':
+                        $size=25;
+                        $text.="font-size:" .$size. "px;";
+                        break;
+                      
+                    }
+     
+      }
                 }
                 if ((isset($Rinfo["Font"]))) {
                   $Font=$Rinfo["Font"];
@@ -241,6 +258,9 @@ class RabieController extends Controller
                     case "G-TR":
                         $text .= '<img style="width:120px;height:40px;"src="https://storage.googleapis.com/ifta-learning-dp/uploads/ifta_content/temps/nassets/icone/' . $kid1 . '.png" >';
                         break;
+                    case "G-TH":
+                        $text .= '<img style="width:120px;height:40px;"src="https://storage.googleapis.com/ifta-learning-dp/uploads/ifta_content/temps/nassets/icone/' . $kid1 . '.png" >';
+                        break;
                 }
             }
             if (!empty($kid1)&&!str_starts_with(trim($kid1), 'P') && !str_starts_with(trim($kid1), 'G')&&!str_starts_with(trim($kid1), 'N')) 
@@ -256,7 +276,7 @@ class RabieController extends Controller
 
               if (str_ends_with($data,'.')||str_ends_with($data,'/')||str_contains($data,'.')) {
                  
-               
+              $data=str_replace('&rlm','',$data);
               $text .= "<span style='";
               if ($color) {
                $text .= "color:#" .$color. ";";
@@ -303,11 +323,11 @@ class RabieController extends Controller
                 $data=trim(str_replace('/', '', $kid1));
                 
             }
-              $text .="'>".$data ."</span><br> ";
+              $text .="'>".$data."</span><br> ";
 
             }
             else{
-
+              $data=str_replace('&rlm','',$data);
               $text .= "<span style='";
               if ($color) {
                $text .= "color:#" .$color. ";";

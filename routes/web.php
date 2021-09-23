@@ -23,13 +23,22 @@ Route::get('/', function () {
 
 // Route::get('/style', '\App\Http\Controllers\copyController@style');
 // Route::get('/sector', '\App\Http\Controllers\SectorController@tester');
+
 Route::get('/',function () {
+    return view('start');
+})->middleware('auth');
+
+
+Route::get('/newlesson',function () {
+    return view('interface');
+})->middleware('auth');
+
+Route::get('/mokahome',function () {
     return view('face');
 })->name('page')->middleware('auth');
 
-Route::get('start',function () {
-    return view('start');
-})->middleware('auth');
+
+
 
  
  //Route::post('/convert', '\App\Http\Controllers\InterFaceController@rabie')->name('convert');
@@ -37,6 +46,7 @@ Route::get('start',function () {
 
  Route::post('/new', '\App\Http\Controllers\RabieController@rabie')->name('convert');
 
+ Route::post('/lesson', '\App\Http\Controllers\magedController@rabie')->name('convertLesson');
  //Route::post('/convert', '\App\Http\Controllers\RabieController@rabie')->name('convert');
 
 // Route::get('/home', 'HomeController@index')->name('home');

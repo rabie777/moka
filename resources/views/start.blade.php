@@ -10,8 +10,9 @@
   <div class="container">
   
   <div class="d-grid gap-2 col-6 mx-auto" style="text-align: center;">
+  <button type="submit"  style="color: #3e368e;" class="btn btn-outline-info btn-lg" name="click" onclick="window.location='{{ url("newlesson") }}'">الدورات</button>
   <button type="submit"  style="color: #3e368e;" class="btn btn-outline-info btn-lg" name="click" onclick="window.location='{{ url("mokahome") }}'">المقررات</button>
-  <button type="submit"  style="color: #3e368e;" class="btn btn-outline-info btn-lg" name="click" onclick="window.location='{{ url("home") }}'">الدورات</button>
+
   
 </div>
   </div>

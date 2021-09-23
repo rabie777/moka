@@ -1,0 +1,562 @@
+/*template styles   */
+
+.اسم-الدرس{
+	font-size:24px;
+	color:#0163b5;
+	font-family:"Times New Roman";
+	text-align:center;
+	font-weight:bold;
+	direction:rtl;
+	padding-bottom:25px;
+	background:url(../images/templates/Temp-General/under-tittle.png) bottom center no-repeat !important;
+}
+
+.عنوان-فرعي1{
+	font-size:18px;
+	color:#243c85;
+	font-family:"Times New Roman";
+	text-align:right;
+	font-weight:bold;
+	direction:rtl;
+	padding-left:15px;	/*padding-bottom:5px;*/
+	padding-bottom: 12px;
+	background:url(../images/templates/Temp-General/sub-tittle.png) bottom left no-repeat !important;
+}
+.عنوان-فرعي2{
+	font-size:18px;
+	color:#000000;
+	font-family:"Times New Roman";
+	text-align:right;
+	font-weight:bold;
+	direction:rtl;
+}
+.ايات{
+	font-size:16px;
+	color:#105505;
+	text-align:justify;
+}
+.الغريب{
+	font-size:16px;
+	color:#0214ff;
+	font-family:"Times New Roman";
+	text-align:justify;
+	font-weight:bold;
+}
+.الحديث{
+	font-size:16px;
+	color:#18549a;
+	font-family:"Times New Roman";
+	text-align:justify;
+	font-weight:bold;
+}
+.الاعلام{
+	font-size:16px;
+	color:#105505;
+	font-family:"Times New Roman";
+	text-align:justify;
+	font-weight:bold;
+}
+.المصطلحات{
+	font-size:16px;
+	color:#561098;
+	font-family:"Times New Roman";
+	text-align:justify;
+	font-weight:bold;
+}
+.عناصر{
+	color:#222d87;
+	text-align:right;
+	font-weight:bold;
+	direction:rtl;
+	
+}
+p .عناصر{
+	font-family:"Cairo";
+	color:#222d87;
+	text-align:right;
+	font-weight:bold;
+	direction:rtl;
+	padding-bottom: 15px;
+	padding-left: 15px;
+	text-decoration: none;
+	background:url(../images/templates/Temp-General/sub-tittle.png) bottom left no-repeat !important;
+}
+.المتن{
+	font-size:16px;
+	color:#a01c1c;
+	font-family:"Times New Roman";
+	text-align:justify;
+	font-weight:bold;
+}
+.فقرة-خط{
+	background:url(../images/templates/Temp-General/line.png) bottom center no-repeat !important;
+	font-size:16px;
+	color:#000000;
+	font-family:"Times New Roman";
+	text-align:justify;
+	padding-bottom:30px;
+}
+.فقرة{
+	font-size:16px;
+	color:#000000;
+	font-family:"Cairo";
+	text-align:justify;
+}
+.فقرة-بمسافة{
+	color:#000000;
+	font-family:"bahij";
+	text-align: justify;
+}
+
+.عنوان-نشاط{
+	font-size:18px;
+	color:#000000;
+	font-family:"Times New Roman";
+	text-align:right;
+	font-weight:bold;
+	direction:rtl;
+}
+.مربع-بوربوينت{
+	font-size:16px;
+	color:#000000;
+	font-family:"Times New Roman";
+	text-align:justify;
+	border:thick #000 solid;
+}
+.مربع-فيديو{
+	font-size:16px;
+	color:#000000;
+	font-family:"Times New Roman";
+	text-align:justify;
+	border:thick #000 solid;
+}
+.فقرة a[href^="#"]{
+	background:url(../images/templates/Temp-General/button.png) center bottom repeat-x !important;
+	text-decoration:none;
+	color:#44281b;
+	padding-right:3px;
+	padding-left:3px;
+	font-weight:bold;
+}
+.فقرة-بمسافة a{
+	background:url(../images/templates/Temp-General/button.png) center bottom repeat-x !important;
+	text-decoration:none;
+	color:#44281b;
+	padding-right:3px;
+	padding-left:3px;
+	font-weight:bold;
+}
+.مربع-بوربوينت{
+	font-size:16px;
+	color:#000000;
+	font-family:"Times New Roman";
+	text-align:justify;
+	border:thick #000 solid;
+}
+.مربع-فيديو{
+	font-size:16px;
+	color:#000000;
+	font-family:"Times New Roman";
+	text-align:justify;
+	border:thick #000 solid;
+}
+.فقرة a[href^="#"]{
+	background:url(../images/templates/Temp-General/button.png) center bottom repeat-x !important;
+	text-decoration:none;
+	color:#44281b;
+	padding-right:3px;
+	padding-left:3px;
+	font-weight:bold;
+}
+.فقرة-بمسافة a{
+	background:url(../images/templates/Temp-General/button.png) center bottom repeat-x !important;
+	text-decoration:none;
+	color:#44281b;
+	padding-right:3px;
+	padding-left:3px;
+	font-weight:bold;
+}
+.مربع-نشاط{
+	font-size:16px;
+	color:#000000;
+	font-family:"Times New Roman";
+	text-align:justify;
+	padding-top: 10px;
+	width:592px;
+	margin-right: 35px;
+	background:url(../images/templates/Temp-General/q1.jpg) top center no-repeat !important;
+}
+.qborder{
+	font-size:16px;
+	color:#000000;
+	font-family:"Times New Roman";
+	text-align:justify;
+	padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+	background:url(../images/templates/Temp-General/q3.jpg) bottom center no-repeat !important;
+}
+.readmore{
+	font-size:15px;
+	text-align:left;
+	background: url("../images/templates/Temp-General/button.png") repeat-x scroll center bottom transparent !important;
+    color: #44281B;
+    font-weight: bold;
+    text-decoration: none;
+	margin-right:auto;
+}
+.عنوان-نشاط{
+	font-size:18px;
+	color:#4f2819;
+	font-family:"Times New Roman";
+	text-align:right;
+	font-weight:bold;
+	direction:rtl;
+	padding-right: 45px;
+}
+.مربع-بوربوينت{
+	font-size:16px;
+	color:#000000;
+	font-family:"Times New Roman";
+	text-align:justify;
+	height:48px;
+	padding-right: 50px;
+	line-height:48px;
+	background:url(../images/templates/Temp-General/p1.jpg) bottom center no-repeat !important;
+}
+.مربع-بوربوينت a{
+	background:url(../images/templates/Temp-General/button.png) center bottom repeat-x !important;
+	text-decoration:none;
+	color:#44281b;
+	padding-right:3px;
+	padding-left:3px;
+	font-weight:bold;
+	margin-right: 35px;
+}
+.مربع-فيديو{
+	font-size:16px;
+	color:#000000;
+	font-family:"Times New Roman";
+	text-align:justify;
+	border:thick #000 solid;
+}
+.فقرة a[href^="#"]{
+	background:url(../images/templates/Temp-General/button.png) center bottom repeat-x !important;
+	text-decoration:none;
+	color:#44281b;
+	padding-right:3px;
+	padding-left:3px;
+	font-weight:bold;
+}
+.فقرة-بمسافة a{
+	background:url(../images/templates/Temp-General/button.png) center bottom repeat-x !important;
+	text-decoration:none;
+	color:#44281b;
+	padding-right:3px;
+	padding-left:3px;
+	font-weight:bold;
+}
+.Header_Box{
+	min-width: 345px;
+   max-width: auto;
+   height: 95px;
+   width:fit-content;
+   font-family: 'Roboto', sans-serif;
+   margin: auto;
+   padding-top: 16px;
+   text-align: center;
+   padding-left: 35px;
+   padding-right: 35px;
+   font-size: 22px;
+   border-top: #767171 dashed 2px;
+   border-right: #767171 dashed 2px;
+   border-left: #767171 dashed 2px;
+   border-bottom: #0070c0 solid 10px;
+}
+/*
+.Header2_Box{
+	background:url(./images/tb_bg_right.png) center right no-repeat,url(./images/tb_bg_left.png) center left no-repeat, url(./images/tb_bg.png) center center repeat-x  ;
+	min-width: 345px;
+	max-width: auto;
+	width:fit-content;
+	height: 90px;
+	 
+    padding-top: 16px;
+    text-align: center;
+	padding-left: 35px;
+	padding-right: 35px;
+	font-family:Almarai ExtraBold;
+    font-size:22px
+	
+}*/
+
+.Reference_Box{
+ 
+	min-width: auto;
+    max-width: 100%;
+    width: fit-content;
+    height: auto;
+    min-height: 30px;
+    height: auto !important;
+    height: 30px;
+	 
+    margin-top: 30px;
+	margin-bottom: 20px;
+    padding-top: 33px;
+    padding-bottom: 12px;
+    padding-left: 50px;
+    padding-right: 52px;
+	border: #767171 dashed 2px;
+    position: relative;
+	border-radius: 25px;
+}
+.Reference_Box:after {
+	content:'';
+    position: absolute;
+	top: -32px;/*position of the background*/
+    right: 20px;/*position of the background*/
+    background:url(../icone/G-R.png) center right no-repeat ;
+	width: 150px;/*width of the background*/
+    height: 57px;/*height of the background*/
+}
+.main-imageright{
+	background:url(../images/tb_bg_right.png) center right no-repeat;
+	width: 85px;
+	height:81px;
+}
+.main-imageleft{
+	background:url(../images/tb_bg_left.png) center left no-repeat;
+	width: 85px;
+	height:81px;
+}
+.main{
+	display: flex;
+}
+.Header2_Box
+{
+	background:url(../images/tb_bg.png) center center repeat-x  ;
+	min-width: fit-content;
+    max-width: auto;
+	padding-bottom: 15px;
+    width: 100px;
+    height:auto;
+	min-height: 75px;
+	height:auto !important;      
+	height:30px;
+	padding-top: 15px;
+    text-align: center;
+    padding-left: 35px;
+    padding-right: 33px;
+}
+.saying-imagetop{
+	margin: auto;
+	background:url(../images/sbb_bg_right.png) center top no-repeat;
+	width: 555px;
+	height:63px;
+}
+.saying-imagebottom{
+	margin: auto;
+	background:url(../images/sb_bg_left.png) center top no-repeat;
+	width: 555px;
+	height:29px;
+}
+.Saying_Box{
+	margin: auto;
+	background: url(../images/sb_bg_center.png)center center repeat-y;
+    min-width: 345px;
+    max-width: auto;
+    width: 555px;
+    height: auto;
+    min-height: 30px;
+    height: auto !important;
+    height: 30px;
+    padding-top: 15px;
+    padding-left: 45px;
+    padding-right: 130px;
+}
+.Title_Box
+{
+
+	min-width: 230px;
+    max-width: auto;
+	padding-bottom: 15px;
+    width: fit-content;
+    height:auto;
+	min-height: 67px;
+	height:auto !important;      
+	height:30px;
+    text-align: center;
+    padding-left: 35px;
+    padding-right: 33px;
+}
+/*.Title_Box{
+	max-width: auto !important;
+	border: #000;
+	height:auto !important;      
+}
+*/
+.Definition_Box{
+	
+
+	min-width: 305px;
+    max-width: auto;
+    width: fit-content;
+    height: fit-content;
+    margin: auto;
+    padding-top: 26px;
+    padding-bottom: 35px;
+    text-align: right;
+    padding-left: 35px;
+    padding-right: 35px;
+	border: #767171 dashed 2px;
+    border-radius: 25px;
+	position:relative ;
+	margin-top: 30px;
+	margin-bottom: 15px;
+}
+.Definition_Box:after {
+    content:'';/*enable after element*/
+    position: absolute;
+	top: -32px;/*position of the background*/
+    right: 20px;/*position of the background*/
+    background:url(../icone/G-T.png) center right no-repeat ;
+	width: 150px;/*width of the background*/
+    height: 57px;/*height of the background*/
+}
+
+
+.Input_Box{
+
+		width: fit-content;
+		text-align: center;
+		margin: auto;
+		border: #767171 outset 1px;
+}
+
+.start_Box
+{
+	min-width: auto;
+    text-align: justify;
+    width: fit-content;
+    height: auto;
+    min-height: 30px;
+    height: auto !important;
+    height: 30px;
+ 
+    margin-top: 30px;
+	margin-bottom: 20px;
+    padding-top: 33px;
+    padding-bottom: 12px;
+    padding-left: 50px;
+    padding-right: 52px;
+	border: #767171 dashed 2px;
+    position: relative;
+	border-radius: 25px;
+}
+.start_Box:after {
+	content:'';
+    position: absolute;
+	top: -32px;/*position of the background*/
+    right: 20px;/*position of the background*/
+    background:url(../icone/G-A.png) center right no-repeat ;
+	width: 150px;/*width of the background*/
+    height: 57px;/*height of the background*/
+}
+
+
+.Moral_Box
+{
+	min-width: auto;
+    
+    width: fit-content;
+    height: auto;
+    min-height: 30px;
+    height: auto !important;
+    height: 30px;
+ 
+    margin-top: 30px;
+	margin-bottom: 20px;
+    padding-top: 33px;
+    padding-bottom: 12px;
+    padding-left: 50px;
+    padding-right: 52px;
+    border: #767171 dashed 2px;
+    position: relative;
+	border-radius: 25px;
+}
+.Moral_Box:after {
+	content:'';
+    position: absolute;
+	top: -32px;/*position of the background*/
+    right: 20px;/*position of the background*/
+    background:url(../icone/G-Z.png) center right no-repeat ;
+    width: 150px;/*width of the background*/
+    height: 57px;/*height of the background*/
+}
+.goals_Box
+{
+	min-width: auto;
+    width: 100%;
+    height: auto;
+    min-height: 30px;
+    height: auto !important;
+    height: 30px;
+    margin-top: 30px;
+	margin-bottom: 20px;
+    padding-top: 33px;
+    padding-bottom: 12px;
+    padding-left: 50px;
+    padding-right: 52px;
+	border: #767171 dashed 2px;
+    position: relative;
+	border-radius: 25px;
+}
+.goals_Box:after {
+	content:'';
+    position: absolute;
+	top: -32px;/*position of the background*/
+    right: 20px;/*position of the background*/
+    background:url(../icone/G-G.png) center right no-repeat ;
+    width: 150px;/*width of the background*/
+    height: 57px;/*height of the background*/
+}
+
+.Poem_Box
+{
+	min-width: auto;
+    width: fit-content;
+    height: auto;
+    min-height: 30px;
+    height: auto !important;
+    height: 30px;
+    margin-top: 30px;
+	margin-bottom: 20px;
+    padding-top: 33px;
+    padding-bottom: 12px;
+    padding-left: 50px;
+    padding-right: 52px;
+	border: #767171 dashed 2px;
+    position: relative;
+	border-radius: 25px;
+
+}
+
+.table, .table .table {
+   
+    width: 1000px;
+	margin:auto;
+   
+}
+
+
+#Temp009 .TextArea {
+   
+     
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.images{
+	color: #777;
+	margin: 30px 0 30px;
+}
